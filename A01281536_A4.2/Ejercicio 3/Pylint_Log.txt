@@ -1,0 +1,13 @@
+
+(base) C:\Users\JDiaz>
+(base) C:\Users\JDiaz>cd C:\Users\...\Desktop\Maestria\4to Trimestre\Pruebas\Ejercicio 3
+
+(base) C:\Users\...\Desktop\Maestria\4to Trimestre\Pruebas\Ejercicio 3>pylint wordCount.py
+************* Module wordCount
+wordCount.py:1:0: C0103: Module name "wordCount" doesn't conform to snake_case naming style (invalid-name)
+
+-----------------------------------
+Your code has been rated at 9.69/10
+
+
+(base) C:\Users\...\Desktop\Maestria\4to Trimestre\Pruebas\Ejercicio 3>
