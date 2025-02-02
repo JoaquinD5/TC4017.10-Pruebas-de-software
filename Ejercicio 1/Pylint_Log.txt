@@ -1,0 +1,224 @@
+Microsoft Windows [Version 10.0.19045.5371]
+(c) Microsoft Corporation. All rights reserved.
+
+(base) C:\Users\JDiaz>cd C:\Users\...\Desktop\Maestria\4to Trimestre\Pruebas\Ejercicio 1
+
+(base) C:\Users\...\Desktop\Maestria\4to Trimestre\Pruebas\Ejercicio 1>pylint computeStatistics.py
+************* Module computeStatistics
+computeStatistics.py:96:0: C0305: Trailing newlines (trailing-newlines)
+computeStatistics.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+computeStatistics.py:1:0: C0103: Module name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+computeStatistics.py:12:4: R1722: Consider using 'sys.exit' instead (consider-using-sys-exit)
+computeStatistics.py:26:0: C0103: Constant name "data_sum" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:27:0: C0103: Constant name "data_count" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:42:0: C0103: Constant name "max_frequency" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:43:0: C0103: Constant name "data_mode" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:45:0: C0206: Consider iterating with .items() (consider-using-dict-items)
+computeStatistics.py:56:0: C0103: Constant name "center" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:64:0: C0103: Constant name "Sum_Quad_Dif" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:78:5: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+
+-----------------------------------
+Your code has been rated at 7.89/10
+
+
+(base) C:\Users\...\Desktop\Maestria\4to Trimestre\Pruebas\Ejercicio 1>pylint computeStatistics.py
+************* Module computeStatistics
+computeStatistics.py:96:0: C0305: Trailing newlines (trailing-newlines)
+computeStatistics.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+computeStatistics.py:1:0: C0103: Module name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+computeStatistics.py:12:4: R1722: Consider using 'sys.exit' instead (consider-using-sys-exit)
+computeStatistics.py:26:0: C0103: Constant name "data_sum" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:27:0: C0103: Constant name "data_count" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:42:0: C0103: Constant name "max_frequency" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:43:0: C0103: Constant name "data_mode" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:45:0: C0206: Consider iterating with .items() (consider-using-dict-items)
+computeStatistics.py:56:0: C0103: Constant name "center" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:64:0: C0103: Constant name "sum_quad_dif" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:78:5: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+
+------------------------------------------------------------------
+Your code has been rated at 7.89/10 (previous run: 7.89/10, +0.00)
+
+
+(base) C:\Users\...\Desktop\Maestria\4to Trimestre\Pruebas\Ejercicio 1>pylint computeStatistics.py
+************* Module computeStatistics
+computeStatistics.py:96:0: C0305: Trailing newlines (trailing-newlines)
+computeStatistics.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+computeStatistics.py:1:0: C0103: Module name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+computeStatistics.py:12:4: R1722: Consider using 'sys.exit' instead (consider-using-sys-exit)
+computeStatistics.py:26:0: C0103: Constant name "data_sum" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:27:0: C0103: Constant name "data_count" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:42:0: C0103: Constant name "max_frequency" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:43:0: C0103: Constant name "data_mode" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:45:0: C0206: Consider iterating with .items() (consider-using-dict-items)
+computeStatistics.py:56:0: C0103: Constant name "center" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:64:0: C0103: Constant name "sum_quad_dif" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:78:5: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+
+------------------------------------------------------------------
+Your code has been rated at 7.89/10 (previous run: 7.89/10, +0.00)
+
+
+(base) C:\Users\...\Desktop\Maestria\4to Trimestre\Pruebas\Ejercicio 1>pylint computeStatistics.py
+************* Module computeStatistics
+computeStatistics.py:95:0: C0304: Final newline missing (missing-final-newline)
+computeStatistics.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+computeStatistics.py:1:0: C0103: Module name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+computeStatistics.py:12:4: R1722: Consider using 'sys.exit' instead (consider-using-sys-exit)
+computeStatistics.py:26:0: C0103: Constant name "data_sum" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:27:0: C0103: Constant name "data_count" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:42:0: C0103: Constant name "max_frequency" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:43:0: C0103: Constant name "data_mode" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:45:0: C0206: Consider iterating with .items() (consider-using-dict-items)
+computeStatistics.py:56:0: C0103: Constant name "center" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:64:0: C0103: Constant name "sum_quad_dif" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:78:5: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+
+------------------------------------------------------------------
+Your code has been rated at 7.89/10 (previous run: 7.89/10, +0.00)
+
+
+(base) C:\Users\...\Desktop\Maestria\4to Trimestre\Pruebas\Ejercicio 1>pylint computeStatistics.py
+************* Module computeStatistics
+computeStatistics.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+computeStatistics.py:1:0: C0103: Module name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+computeStatistics.py:12:4: R1722: Consider using 'sys.exit' instead (consider-using-sys-exit)
+computeStatistics.py:26:0: C0103: Constant name "data_sum" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:27:0: C0103: Constant name "data_count" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:42:0: C0103: Constant name "max_frequency" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:43:0: C0103: Constant name "data_mode" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:45:0: C0206: Consider iterating with .items() (consider-using-dict-items)
+computeStatistics.py:56:0: C0103: Constant name "center" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:64:0: C0103: Constant name "sum_quad_dif" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:78:5: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+
+------------------------------------------------------------------
+Your code has been rated at 8.07/10 (previous run: 7.89/10, +0.18)
+
+
+(base) C:\Users\...\Desktop\Maestria\4to Trimestre\Pruebas\Ejercicio 1>pylint computeStatistics.py
+************* Module computeStatistics
+computeStatistics.py:1:0: C0103: Module name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+computeStatistics.py:17:4: R1722: Consider using 'sys.exit' instead (consider-using-sys-exit)
+computeStatistics.py:31:0: C0103: Constant name "data_sum" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:32:0: C0103: Constant name "data_count" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:47:0: C0103: Constant name "max_frequency" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:48:0: C0103: Constant name "data_mode" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:50:0: C0206: Consider iterating with .items() (consider-using-dict-items)
+computeStatistics.py:61:0: C0103: Constant name "center" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:69:0: C0103: Constant name "sum_quad_dif" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:83:5: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+
+------------------------------------------------------------------
+Your code has been rated at 8.25/10 (previous run: 8.07/10, +0.18)
+
+
+(base) C:\Users\...\Desktop\Maestria\4to Trimestre\Pruebas\Ejercicio 1>pylint computeStatistics.py
+************* Module computeStatistics
+computeStatistics.py:1:0: C0103: Module name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+computeStatistics.py:17:4: R1722: Consider using 'sys.exit' instead (consider-using-sys-exit)
+computeStatistics.py:31:0: C0103: Constant name "data_sum" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:32:0: C0103: Constant name "data_count" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:47:0: C0103: Constant name "max_frequency" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:48:0: C0103: Constant name "data_mode" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:50:0: C0206: Consider iterating with .items() (consider-using-dict-items)
+computeStatistics.py:61:0: C0103: Constant name "center" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:69:0: C0103: Constant name "sum_quad_dif" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 8.42/10 (previous run: 8.25/10, +0.18)
+
+
+(base) C:\Users\...\Desktop\Maestria\4to Trimestre\Pruebas\Ejercicio 1>pylint computeStatistics.py
+************* Module computeStatistics
+computeStatistics.py:1:0: C0103: Module name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+computeStatistics.py:17:4: R1722: Consider using 'sys.exit' instead (consider-using-sys-exit)
+computeStatistics.py:31:0: C0103: Constant name "data_sum" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:32:0: C0103: Constant name "data_count" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:47:0: C0103: Constant name "max_frequency" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:48:0: C0103: Constant name "data_mode" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:50:0: C0206: Consider iterating with .items() (consider-using-dict-items)
+computeStatistics.py:69:0: C0103: Constant name "sum_quad_dif" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 8.60/10 (previous run: 8.42/10, +0.18)
+
+
+(base) C:\Users\...\Desktop\Maestria\4to Trimestre\Pruebas\Ejercicio 1>pylint computeStatistics.py
+************* Module computeStatistics
+computeStatistics.py:1:0: C0103: Module name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+computeStatistics.py:17:4: R1722: Consider using 'sys.exit' instead (consider-using-sys-exit)
+computeStatistics.py:31:0: C0103: Constant name "data_sum" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:32:0: C0103: Constant name "data_count" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:47:0: C0103: Constant name "max_frequency" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:48:0: C0103: Constant name "data_mode" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:50:0: C0206: Consider iterating with .items() (consider-using-dict-items)
+computeStatistics.py:69:0: C0103: Constant name "sum_quad_dif" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 8.60/10 (previous run: 8.60/10, +0.00)
+
+
+(base) C:\Users\...\Desktop\Maestria\4to Trimestre\Pruebas\Ejercicio 1>pylint computeStatistics.py
+************* Module computeStatistics
+computeStatistics.py:1:0: C0103: Module name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+computeStatistics.py:17:4: R1722: Consider using 'sys.exit' instead (consider-using-sys-exit)
+computeStatistics.py:31:0: C0103: Constant name "data_sum" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:47:0: C0103: Constant name "max_frequency" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:50:0: C0206: Consider iterating with .items() (consider-using-dict-items)
+computeStatistics.py:61:0: C0103: Constant name "center" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:69:0: C0103: Constant name "sum_quad_dif" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 8.77/10 (previous run: 8.60/10, +0.18)
+
+
+(base) C:\Users\...\Desktop\Maestria\4to Trimestre\Pruebas\Ejercicio 1>pylint computeStatistics.py
+************* Module computeStatistics
+computeStatistics.py:1:0: C0103: Module name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+computeStatistics.py:17:4: R1722: Consider using 'sys.exit' instead (consider-using-sys-exit)
+computeStatistics.py:47:0: C0103: Constant name "max_frequency" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:50:0: C0206: Consider iterating with .items() (consider-using-dict-items)
+computeStatistics.py:61:0: C0103: Constant name "center" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 9.12/10 (previous run: 8.77/10, +0.35)
+
+
+(base) C:\Users\...\Desktop\Maestria\4to Trimestre\Pruebas\Ejercicio 1>pylint computeStatistics.py
+************* Module computeStatistics
+computeStatistics.py:1:0: C0103: Module name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+computeStatistics.py:48:0: C0103: Constant name "max_frequency" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:51:0: C0206: Consider iterating with .items() (consider-using-dict-items)
+computeStatistics.py:62:0: C0103: Constant name "center" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 9.31/10 (previous run: 9.12/10, +0.19)
+
+
+(base) C:\Users\...\Desktop\Maestria\4to Trimestre\Pruebas\Ejercicio 1>pylint computeStatistics.py
+************* Module computeStatistics
+computeStatistics.py:1:0: C0103: Module name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+computeStatistics.py:48:0: C0103: Constant name "max_frequency" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:62:0: C0103: Constant name "center" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 9.48/10 (previous run: 9.31/10, +0.17)
+
+
+(base) C:\Users\...\Desktop\Maestria\4to Trimestre\Pruebas\Ejercicio 1>pylint computeStatistics.py
+************* Module computeStatistics
+computeStatistics.py:1:0: C0103: Module name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+computeStatistics.py:32:0: C0103: Constant name "data_sum" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:33:0: C0103: Constant name "data_count" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:48:0: C0103: Constant name "max_frequency" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:49:0: C0103: Constant name "data_mode" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:62:0: C0103: Constant name "center" doesn't conform to UPPER_CASE naming style (invalid-name)
+computeStatistics.py:70:0: C0103: Constant name "sum_quad_dif" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 8.79/10 (previous run: 9.48/10, -0.69)
+
+
+(base) C:\Users\...\Desktop\Maestria\4to Trimestre\Pruebas\Ejercicio 1>
