@@ -1,0 +1,2 @@
+The total cost for all sales in the file is: 165235.37
+Execution time: 0.003656799999589566 seconds
