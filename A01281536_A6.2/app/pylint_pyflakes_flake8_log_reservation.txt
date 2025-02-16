@@ -1,0 +1,52 @@
+
+(base) C:\Users\JDiaz>cd C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\app
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\app>pylint reservation.py
+************* Module app.reservation
+reservation.py:21:34: C0303: Trailing whitespace (trailing-whitespace)
+reservation.py:52:23: C0303: Trailing whitespace (trailing-whitespace)
+reservation.py:62:0: C0303: Trailing whitespace (trailing-whitespace)
+reservation.py:90:0: C0304: Final newline missing (missing-final-newline)
+reservation.py:47:17: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+reservation.py:59:17: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+reservation.py:70:8: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+
+-----------------------------------
+Your code has been rated at 8.11/10
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\apppylint reservation.py
+************* Module app.reservation
+reservation.py:71:8: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+
+------------------------------------------------------------------
+Your code has been rated at 9.73/10 (previous run: 8.11/10, +1.62)
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\apppylint reservation.py
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.73/10, +0.27)
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\app>pyflakes reservation.py
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\app>flake8 reservation.py
+reservation.py:13:1: W293 blank line contains whitespace
+reservation.py:25:17: E211 whitespace before '('
+reservation.py:25:69: E251 unexpected spaces around keyword / parameter equals
+reservation.py:25:71: E251 unexpected spaces around keyword / parameter equals
+reservation.py:25:80: E501 line too long (81 > 79 characters)
+reservation.py:62:15: E275 missing whitespace after keyword
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\appflake8 reservation.py
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\app>pylint reservation.py
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\app>pyflakes reservation.py
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\app>

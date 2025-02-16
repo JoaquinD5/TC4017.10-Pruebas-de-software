@@ -1,0 +1,104 @@
+
+(base) C:\Users\JDiaz>cd C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pylint test_customer.py
+************* Module test.test_customer
+test_customer.py:15:0: C0301: Line too long (124/100) (line-too-long)
+test_customer.py:41:0: C0303: Trailing whitespace (trailing-whitespace)
+test_customer.py:45:35: C0303: Trailing whitespace (trailing-whitespace)
+test_customer.py:53:0: C0304: Final newline missing (missing-final-newline)
+test_customer.py:8:0: C0413: Import "import unittest" should be placed at the top of the module (wrong-import-position)
+test_customer.py:9:0: C0413: Import "from app.customer import Customer" should be placed at the top of the module (wrong-import-position)
+test_customer.py:12:0: C0115: Missing class docstring (missing-class-docstring)
+test_customer.py:17:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_customer.py:27:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_customer.py:30:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_customer.py:34:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_customer.py:45:4: C0116: Missing function or method docstring (missing-function-docstring)
+
+-----------------------------------
+Your code has been rated at 6.36/10
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pylint test_customer.py
+************* Module test.test_customer
+test_customer.py:21:0: C0301: Line too long (116/100) (line-too-long)
+test_customer.py:75:0: C0304: Final newline missing (missing-final-newline)
+test_customer.py:9:0: C0413: Import "import unittest" should be placed at the top of the module (wrong-import-position)
+test_customer.py:10:0: C0413: Import "from app.customer import Customer" should be placed at the top of the module (wrong-import-position)
+
+------------------------------------------------------------------
+Your code has been rated at 8.79/10 (previous run: 6.36/10, +2.42)
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pylint test_customer.py
+************* Module test.test_customer
+test_customer.py:76:0: C0304: Final newline missing (missing-final-newline)
+test_customer.py:9:0: C0413: Import "import unittest" should be placed at the top of the module (wrong-import-position)
+test_customer.py:10:0: C0413: Import "from app.customer import Customer" should be placed at the top of the module (wrong-import-position)
+
+------------------------------------------------------------------
+Your code has been rated at 9.09/10 (previous run: 8.79/10, +0.30)
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pylint test_customer.py
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.09/10, +0.91)
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pyflakes test_customer.py
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_customer.py
+test_customer.py:8:34: E261 at least two spaces before inline comment
+test_customer.py:10:50: E127 continuation line over-indented for visual indent
+test_customer.py:17:14: E211 whitespace before '('
+test_customer.py:22:80: E501 line too long (83 > 79 characters)
+test_customer.py:29:80: E501 line too long (84 > 79 characters)
+test_customer.py:34:80: E501 line too long (80 > 79 characters)
+test_customer.py:35:80: E501 line too long (82 > 79 characters)
+test_customer.py:49:80: E501 line too long (84 > 79 characters)
+test_customer.py:61:43: E251 unexpected spaces around keyword / parameter equals
+test_customer.py:61:45: E251 unexpected spaces around keyword / parameter equals
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_customer.py
+test_customer.py:17:14: E211 whitespace before '('
+test_customer.py:22:80: E501 line too long (83 > 79 characters)
+test_customer.py:29:80: E501 line too long (84 > 79 characters)
+test_customer.py:34:80: E501 line too long (80 > 79 characters)
+test_customer.py:35:80: E501 line too long (82 > 79 characters)
+test_customer.py:49:80: E501 line too long (84 > 79 characters)
+test_customer.py:61:43: E251 unexpected spaces around keyword / parameter equals
+test_customer.py:61:45: E251 unexpected spaces around keyword / parameter equals
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_customer.py
+test_customer.py:31:80: E501 line too long (84 > 79 characters)
+test_customer.py:36:80: E501 line too long (80 > 79 characters)
+test_customer.py:37:80: E501 line too long (82 > 79 characters)
+test_customer.py:51:80: E501 line too long (84 > 79 characters)
+test_customer.py:63:43: E251 unexpected spaces around keyword / parameter equals
+test_customer.py:63:45: E251 unexpected spaces around keyword / parameter equals
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_customer.py
+test_customer.py:37:80: E501 line too long (80 > 79 characters)
+test_customer.py:38:80: E501 line too long (82 > 79 characters)
+test_customer.py:52:80: E501 line too long (84 > 79 characters)
+test_customer.py:64:43: E251 unexpected spaces around keyword / parameter equals
+test_customer.py:64:45: E251 unexpected spaces around keyword / parameter equals
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_customer.py
+test_customer.py:54:80: E501 line too long (84 > 79 characters)
+test_customer.py:66:43: E251 unexpected spaces around keyword / parameter equals
+test_customer.py:66:45: E251 unexpected spaces around keyword / parameter equals
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_customer.py
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pylint test_customer.py
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pyflakes test_customer.py
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>

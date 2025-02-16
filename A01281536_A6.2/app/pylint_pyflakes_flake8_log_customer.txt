@@ -1,0 +1,60 @@
+
+(base) C:\Users\JDiaz>cd C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\app
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\app>pylint customer.py
+************* Module app.customer
+customer.py:21:31: C0303: Trailing whitespace (trailing-whitespace)
+customer.py:52:20: C0303: Trailing whitespace (trailing-whitespace)
+customer.py:62:0: C0303: Trailing whitespace (trailing-whitespace)
+customer.py:76:0: C0303: Trailing whitespace (trailing-whitespace)
+customer.py:100:0: C0303: Trailing whitespace (trailing-whitespace)
+customer.py:115:0: C0304: Final newline missing (missing-final-newline)
+customer.py:47:17: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+customer.py:59:17: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+customer.py:70:8: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+
+-----------------------------------
+Your code has been rated at 8.20/10
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\apppylint customer.py
+************* Module app.customer
+customer.py:70:8: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+
+------------------------------------------------------------------
+Your code has been rated at 9.80/10 (previous run: 8.20/10, +1.60)
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\apppylint customer.py
+************* Module app.customer
+customer.py:73:0: C0303: Trailing whitespace (trailing-whitespace)
+
+------------------------------------------------------------------
+Your code has been rated at 9.80/10 (previous run: 9.80/10, +0.00)
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\apppylint customer.py
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.80/10, +0.20)
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\app>pyflakes customer.py
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\app>flake8 customer.py
+customer.py:9:1: E302 expected 2 blank lines, found 1
+customer.py:12:1: W293 blank line contains whitespace
+customer.py:24:17: E211 whitespace before '('
+customer.py:32:52: W291 trailing whitespace
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\appflake8 customer.py
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\app>pylint customer.py
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\app>pyflakes customer.py
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\app>

@@ -1,0 +1,491 @@
+
+(base) C:\Users\JDiaz>cd C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pylint test_hotel.py
+************* Module test.test_hotel
+test_hotel.py:56:0: C0303: Trailing whitespace (trailing-whitespace)
+test_hotel.py:60:32: C0303: Trailing whitespace (trailing-whitespace)
+test_hotel.py:68:0: C0304: Final newline missing (missing-final-newline)
+test_hotel.py:8:0: C0413: Import "import unittest" should be placed at the top of the module (wrong-import-position)
+test_hotel.py:9:0: C0413: Import "from app.hotel import Hotel" should be placed at the top of the module (wrong-import-position)
+test_hotel.py:12:0: C0115: Missing class docstring (missing-class-docstring)
+test_hotel.py:23:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:34:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:37:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:43:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:49:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:60:4: C0116: Missing function or method docstring (missing-function-docstring)
+
+-----------------------------------
+Your code has been rated at 7.14/10
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pylint test_hotel.py
+************* Module test.test_hotel
+test_hotel.py:57:0: C0303: Trailing whitespace (trailing-whitespace)
+test_hotel.py:61:32: C0303: Trailing whitespace (trailing-whitespace)
+test_hotel.py:69:0: C0304: Final newline missing (missing-final-newline)
+test_hotel.py:13:0: C0115: Missing class docstring (missing-class-docstring)
+test_hotel.py:24:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:35:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:38:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:44:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:50:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:61:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:7:0: C0411: standard import "import sys" should be placed before "from app.hotel import Hotel" (wrong-import-order)
+test_hotel.py:8:0: C0411: standard import "import os" should be placed before "from app.hotel import Hotel" (wrong-import-order)
+
+------------------------------------------------------------------
+Your code has been rated at 7.14/10 (previous run: 7.14/10, +0.00)
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pylint test_hotel.py
+************* Module test.test_hotel
+test_hotel.py:57:0: C0303: Trailing whitespace (trailing-whitespace)
+test_hotel.py:61:32: C0303: Trailing whitespace (trailing-whitespace)
+test_hotel.py:69:0: C0304: Final newline missing (missing-final-newline)
+test_hotel.py:13:0: C0115: Missing class docstring (missing-class-docstring)
+test_hotel.py:24:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:35:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:38:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:44:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:50:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:61:4: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 7.62/10 (previous run: 7.14/10, +0.48)
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pylint test_hotel.py
+************* Module test.test_hotel
+test_hotel.py:68:0: C0304: Final newline missing (missing-final-newline)
+test_hotel.py:13:0: C0115: Missing class docstring (missing-class-docstring)
+test_hotel.py:24:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:35:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:38:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:44:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:50:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:60:4: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 8.10/10 (previous run: 7.62/10, +0.48)
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pylint test_hotel.py
+************* Module test.test_hotel
+test_hotel.py:27:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:38:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:41:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:47:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:53:4: C0116: Missing function or method docstring (missing-function-docstring)
+test_hotel.py:63:4: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 8.57/10 (previous run: 8.10/10, +0.48)
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pylint test_hotel.py
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 8.57/10, +1.43)
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pyflake test_hotel.py
+'pyflake' is not recognized as an internal or external command,
+operable program or batch file.
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pyflakes test_hotel.py
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_hotel.py
+test_hotel.py:8:28: E261 at least two spaces before inline comment
+test_hotel.py:9:80: E501 line too long (82 > 79 characters)
+test_hotel.py:13:1: E303 too many blank lines (3)
+test_hotel.py:17:14: E211 whitespace before '('
+test_hotel.py:27:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:27:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:27:51: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:27:53: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:34:65: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:34:67: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:37:80: E501 line too long (82 > 79 characters)
+test_hotel.py:39:80: E501 line too long (82 > 79 characters)
+test_hotel.py:40:80: E501 line too long (88 > 79 characters)
+test_hotel.py:41:80: E501 line too long (96 > 79 characters)
+test_hotel.py:53:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:53:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:62:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:62:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:71:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:71:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:76:37: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:76:39: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:84:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:84:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:57: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:59: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:88:1: E305 expected 2 blank lines after class or function definition, found 1
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_hotel.py
+test_hotel.py:9:80: E501 line too long (82 > 79 characters)
+test_hotel.py:13:1: E303 too many blank lines (3)
+test_hotel.py:17:14: E211 whitespace before '('
+test_hotel.py:27:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:27:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:27:51: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:27:53: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:34:65: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:34:67: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:37:80: E501 line too long (82 > 79 characters)
+test_hotel.py:39:80: E501 line too long (82 > 79 characters)
+test_hotel.py:40:80: E501 line too long (88 > 79 characters)
+test_hotel.py:41:80: E501 line too long (96 > 79 characters)
+test_hotel.py:53:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:53:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:62:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:62:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:71:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:71:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:76:37: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:76:39: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:84:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:84:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:57: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:59: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:88:1: E305 expected 2 blank lines after class or function definition, found 1
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_hotel.py
+test_hotel.py:10:50: E127 continuation line over-indented for visual indent
+test_hotel.py:14:1: E303 too many blank lines (3)
+test_hotel.py:18:14: E211 whitespace before '('
+test_hotel.py:28:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:28:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:28:51: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:28:53: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:35:65: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:35:67: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:38:80: E501 line too long (82 > 79 characters)
+test_hotel.py:40:80: E501 line too long (82 > 79 characters)
+test_hotel.py:41:80: E501 line too long (88 > 79 characters)
+test_hotel.py:42:80: E501 line too long (96 > 79 characters)
+test_hotel.py:54:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:54:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:63:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:63:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:72:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:72:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:77:37: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:77:39: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:86:57: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:86:59: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:89:1: E305 expected 2 blank lines after class or function definition, found 1
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_hotel.py
+test_hotel.py:14:1: E303 too many blank lines (3)
+test_hotel.py:18:14: E211 whitespace before '('
+test_hotel.py:28:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:28:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:28:51: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:28:53: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:35:65: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:35:67: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:38:80: E501 line too long (82 > 79 characters)
+test_hotel.py:40:80: E501 line too long (82 > 79 characters)
+test_hotel.py:41:80: E501 line too long (88 > 79 characters)
+test_hotel.py:42:80: E501 line too long (96 > 79 characters)
+test_hotel.py:54:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:54:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:63:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:63:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:72:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:72:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:77:37: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:77:39: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:86:57: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:86:59: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:89:1: E305 expected 2 blank lines after class or function definition, found 1
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_hotel.py
+test_hotel.py:12:1: E302 expected 2 blank lines, found 1
+test_hotel.py:16:14: E211 whitespace before '('
+test_hotel.py:26:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:26:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:26:51: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:26:53: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:33:65: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:33:67: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:36:80: E501 line too long (82 > 79 characters)
+test_hotel.py:38:80: E501 line too long (82 > 79 characters)
+test_hotel.py:39:80: E501 line too long (88 > 79 characters)
+test_hotel.py:40:80: E501 line too long (96 > 79 characters)
+test_hotel.py:52:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:52:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:61:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:61:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:70:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:70:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:75:37: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:75:39: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:83:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:83:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:84:57: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:84:59: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:87:1: E305 expected 2 blank lines after class or function definition, found 1
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_hotel.py
+test_hotel.py:17:14: E211 whitespace before '('
+test_hotel.py:27:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:27:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:27:51: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:27:53: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:34:65: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:34:67: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:37:80: E501 line too long (82 > 79 characters)
+test_hotel.py:39:80: E501 line too long (82 > 79 characters)
+test_hotel.py:40:80: E501 line too long (88 > 79 characters)
+test_hotel.py:41:80: E501 line too long (96 > 79 characters)
+test_hotel.py:53:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:53:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:62:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:62:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:71:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:71:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:76:37: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:76:39: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:84:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:84:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:57: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:59: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:88:1: E305 expected 2 blank lines after class or function definition, found 1
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_hotel.py
+test_hotel.py:27:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:27:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:27:51: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:27:53: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:34:65: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:34:67: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:37:80: E501 line too long (82 > 79 characters)
+test_hotel.py:39:80: E501 line too long (82 > 79 characters)
+test_hotel.py:40:80: E501 line too long (88 > 79 characters)
+test_hotel.py:41:80: E501 line too long (96 > 79 characters)
+test_hotel.py:53:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:53:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:62:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:62:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:71:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:71:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:76:37: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:76:39: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:84:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:84:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:57: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:59: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:88:1: E305 expected 2 blank lines after class or function definition, found 1
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_hotel.py
+test_hotel.py:27:37: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:27:50: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:27:52: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:34:65: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:34:67: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:37:80: E501 line too long (82 > 79 characters)
+test_hotel.py:39:80: E501 line too long (82 > 79 characters)
+test_hotel.py:40:80: E501 line too long (88 > 79 characters)
+test_hotel.py:41:80: E501 line too long (96 > 79 characters)
+test_hotel.py:53:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:53:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:62:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:62:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:71:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:71:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:76:37: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:76:39: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:84:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:84:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:57: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:59: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:88:1: E305 expected 2 blank lines after class or function definition, found 1
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_hotel.py
+test_hotel.py:27:49: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:27:51: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:34:65: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:34:67: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:37:80: E501 line too long (82 > 79 characters)
+test_hotel.py:39:80: E501 line too long (82 > 79 characters)
+test_hotel.py:40:80: E501 line too long (88 > 79 characters)
+test_hotel.py:41:80: E501 line too long (96 > 79 characters)
+test_hotel.py:53:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:53:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:62:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:62:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:71:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:71:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:76:37: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:76:39: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:84:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:84:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:57: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:59: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:88:1: E305 expected 2 blank lines after class or function definition, found 1
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_hotel.py
+test_hotel.py:34:65: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:34:67: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:37:80: E501 line too long (82 > 79 characters)
+test_hotel.py:39:80: E501 line too long (82 > 79 characters)
+test_hotel.py:40:80: E501 line too long (88 > 79 characters)
+test_hotel.py:41:80: E501 line too long (96 > 79 characters)
+test_hotel.py:53:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:53:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:62:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:62:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:71:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:71:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:76:37: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:76:39: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:84:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:84:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:57: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:59: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:88:1: E305 expected 2 blank lines after class or function definition, found 1
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_hotel.py
+test_hotel.py:34:35: E225 missing whitespace around operator
+test_hotel.py:34:63: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:34:65: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:37:80: E501 line too long (82 > 79 characters)
+test_hotel.py:39:80: E501 line too long (82 > 79 characters)
+test_hotel.py:40:80: E501 line too long (88 > 79 characters)
+test_hotel.py:41:80: E501 line too long (96 > 79 characters)
+test_hotel.py:53:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:53:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:62:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:62:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:71:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:71:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:76:37: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:76:39: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:84:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:84:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:57: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:59: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:88:1: E305 expected 2 blank lines after class or function definition, found 1
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_hotel.py
+test_hotel.py:37:80: E501 line too long (82 > 79 characters)
+test_hotel.py:39:80: E501 line too long (82 > 79 characters)
+test_hotel.py:40:80: E501 line too long (88 > 79 characters)
+test_hotel.py:41:80: E501 line too long (96 > 79 characters)
+test_hotel.py:53:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:53:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:62:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:62:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:71:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:71:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:76:37: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:76:39: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:84:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:84:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:57: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:85:59: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:88:1: E305 expected 2 blank lines after class or function definition, found 1
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_hotel.py
+test_hotel.py:37:46: W291 trailing whitespace
+test_hotel.py:40:46: W291 trailing whitespace
+test_hotel.py:42:49: W291 trailing whitespace
+test_hotel.py:44:53: W291 trailing whitespace
+test_hotel.py:57:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:57:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:66:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:66:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:75:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:75:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:80:37: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:80:39: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:88:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:88:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:89:57: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:89:59: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:92:1: E305 expected 2 blank lines after class or function definition, found 1
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_hotel.py
+test_hotel.py:37:46: W291 trailing whitespace
+test_hotel.py:38:25: E128 continuation line under-indented for visual indent
+test_hotel.py:40:46: W291 trailing whitespace
+test_hotel.py:41:25: E128 continuation line under-indented for visual indent
+test_hotel.py:42:49: W291 trailing whitespace
+test_hotel.py:43:25: E128 continuation line under-indented for visual indent
+test_hotel.py:44:53: W291 trailing whitespace
+test_hotel.py:45:25: E128 continuation line under-indented for visual indent
+test_hotel.py:57:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:57:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:66:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:66:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:75:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:75:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:80:37: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:80:39: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:88:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:88:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:89:57: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:89:59: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:92:1: E305 expected 2 blank lines after class or function definition, found 1
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_hotel.py
+test_hotel.py:38:29: E127 continuation line over-indented for visual indent
+test_hotel.py:41:25: E128 continuation line under-indented for visual indent
+test_hotel.py:43:25: E128 continuation line under-indented for visual indent
+test_hotel.py:45:25: E128 continuation line under-indented for visual indent
+test_hotel.py:57:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:57:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:66:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:66:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:75:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:75:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:80:37: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:80:39: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:88:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:88:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:89:57: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:89:59: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:92:1: E305 expected 2 blank lines after class or function definition, found 1
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_hotel.py
+test_hotel.py:57:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:57:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:66:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:66:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:75:45: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:75:47: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:80:37: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:80:39: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:88:36: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:88:38: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:89:57: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:89:59: E251 unexpected spaces around keyword / parameter equals
+test_hotel.py:92:1: E305 expected 2 blank lines after class or function definition, found 1
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_hotel.py
+test_hotel.py:92:1: E305 expected 2 blank lines after class or function definition, found 1
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_hotel.py
+test_hotel.py:92:1: E305 expected 2 blank lines after class or function definition, found 1
+test_hotel.py:94:1: W391 blank line at end of file
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_hotel.py
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pylint test_hotel.py
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pyflakes test_hotel.py
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>

@@ -1,0 +1,16 @@
+{
+    "H003": {
+        "hotel_id": "H003",
+        "name": "Fiesta Inn",
+        "location": "Monterrey",
+        "total_rooms": 50,
+        "available_rooms": 50
+    },
+    "H004": {
+        "hotel_id": "H004",
+        "name": "Holiday Inn",
+        "location": "CDMX",
+        "total_rooms": 50,
+        "available_rooms": 50
+    }
+}

@@ -1,0 +1,40 @@
+
+(base) C:\Users\JDiaz>cd C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pylint test_reservation.py
+************* Module test.test_reservation
+test_reservation.py:56:0: C0304: Final newline missing (missing-final-newline)
+test_reservation.py:8:0: C0413: Import "import unittest" should be placed at the top of the module (wrong-import-position)
+test_reservation.py:9:0: C0413: Import "from app.reservation import Reservation" should be placed at the top of the module (wrong-import-position)
+
+-----------------------------------
+Your code has been rated at 8.70/10
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pylint test_reservation.py
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 8.70/10, +1.30)
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pyflakes test_reservation.py
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_reservation.py
+test_reservation.py:9:80: E501 line too long (82 > 79 characters)
+test_reservation.py:16:14: E211 whitespace before '('
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>flake8 test_reservation.py
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pylint test_reservations.py
+************* Module test_reservations.py
+test_reservations.py:1:0: F0001: No module named test_reservations.py (fatal)
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pylint test_reservation.py
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>pyflakes test_reservation.py
+
+(base) C:\Users\JDiaz\OneDrive - AMI International SAPI DE CV\Desktop\Maestria\4to Trimestre\Pruebas\A01281536_A6.2\test>

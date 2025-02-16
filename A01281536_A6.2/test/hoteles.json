@@ -1,0 +1,37 @@
+{
+    "H001": {
+        "hotel_id": "H001",
+        "name": "Fiesta Inn",
+        "location": "Monterrey",
+        "total_rooms": 50,
+        "available_rooms": 49
+    },
+    "H003": {
+        "hotel_id": "H003",
+        "name": "Holiday Inn",
+        "location": "Queretaro",
+        "total_rooms": 50,
+        "available_rooms": 45
+    },
+    "H004": {
+        "hotel_id": "H004",
+        "name": "One",
+        "location": "CDMX",
+        "total_rooms": 50,
+        "available_rooms": 35
+    },
+    "H005": {
+        "hotel_id": "H005",
+        "name": "Holiday Inn",
+        "location": "Tamaulipas",
+        "total_rooms": 50,
+        "available_rooms": 50
+    },
+    "H006": {
+        "hotel_id": "H002",
+        "name": "Mariott",
+        "location": "Queretaro",
+        "total_rooms": 50,
+        "available_rooms": 49
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "C001": {
+        "customer_id": "C001",
+        "name": "Luis",
+        "email": "test@gmail.com",
+        "cellphone": "+529982920283"
+    },
+    "C003": {
+        "customer_id": "C003",
+        "name": "Pablo",
+        "email": "test@gmail.com",
+        "cellphone": "+5290348294"
+    },
+    "C004": {
+        "customer_id": "C002",
+        "name": "Juan",
+        "email": "test@hotmail.com",
+        "cellphone": "+5234895623"
+    }
+}
