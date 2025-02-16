@@ -15,7 +15,7 @@ file_sales = input("Type sales file name: ")
 
 # Try to open catalogue file and convert this json file to python dictionary
 try:
-    with open(file_catalogue, "r", encoding = "utf-8") as f_c:
+    with open(file_catalogue, "r", encoding="utf-8") as f_c:
         data_catalogue = json.load(f_c)
 except FileNotFoundError:
     print(f"The file '{file_catalogue}' was not found.")
@@ -23,7 +23,7 @@ except FileNotFoundError:
 
 # Try to open sales file and convert this json file to python dictionary
 try:
-    with open(file_sales, "r", encoding = "utf-8") as f_s:
+    with open(file_sales, "r", encoding="utf-8") as f_s:
         data_sales = json.load(f_s)
 except FileNotFoundError:
     print(f"The file '{file_sales}' was not found.")
@@ -73,8 +73,9 @@ execution_time = end_time - start_time
 execution_time_str = f"Execution time: {execution_time} seconds"
 
 # Write results on a file
-with open('SaleResults.txt', 'w', encoding = "utf-8") as archivo:
-    archivo.write(f"The total cost for all sales in the file is: {TOTAL_SALES}\n")
+with open('SaleResults.txt', 'w', encoding="utf-8") as archivo:
+    archivo.write(f"The total cost for all sales in the file is: {
+        TOTAL_SALES}\n")
     archivo.write(execution_time_str)
 
 # Show execution time in console
